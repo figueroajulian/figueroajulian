@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julián.</h1>
-<h3 align="center">A passionate of software testing.</h3>
+<h3 align="center">A software testing enthusiast.</h3>
 <img align="right" alt="Tester" width="400" src="https://cdn-hjjbh.nitrocdn.com/NUieNuHBZnIwKENrkVrRTxbvvmcPrKtl/assets/images/optimized/rev-efe8267/www.qamadness.com/wp-content/themes/qamadness/dist/images/blog-gifs/regretion-testing.gif">
 
 - 🔭 I’m currently working on [Forward](https://forwardplatform.com/) as a Senior Quality Engineering Manager.
