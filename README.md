@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking to collaborate on **Open Source projects.**
 
-- 📄 Know about my experiences [julian-fig-portfolio.vercel.app](julian-fig-portfolio.vercel.app)
+- 📄 Know about my experiences [Julián Figueroa - Test Engineer](https://julianfigueroa.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
